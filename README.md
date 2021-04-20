@@ -1,13 +1,13 @@
 # Modal.js
-Create confirm/alert modals swiftly!
+Create confirm/alert modals swiftly! (Tailwindcss version)
 
 ### Check out the examples page:
-[https://jpntex.github.io/Modal.js/](https://jpntex.github.io/Modal.js/ "Examples")
+[https://jsfiddle.net/ariakm25/fyv6ge92/13/](https://jsfiddle.net/ariakm25/fyv6ge92/13/ "Demo Example")
 
 ## How To Use
 ```html
 ...
-<link rel="stylesheet" href="css/modal.css">
+<link rel="stylesheet" href="css/tailwindcss.css">
 </head>
 
 <body>
